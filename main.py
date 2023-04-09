@@ -280,7 +280,7 @@ class Douyin(object):
 
         
         
-# lemit:下载视频数量
+# limit:下载视频数量
 # d = Douyin("https://www.douyin.com/user/MS4wLjABAAAA_PdqQHLg_zwyoE8Cpd-tfSUKE6Ia6i9kvvp97xDY3KM?vid=7096062416236088589", limit=5)
 # 获取文件下载地址
 # d.crawl()
